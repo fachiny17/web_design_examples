@@ -1,0 +1,10 @@
+body{color: #665544; background-color: #fac89d; 
+    font-family: Georgia, 'Times New Roman', serif; text-align: center;}
+.wrapper{width: 720px; margin: 0px auto;}
+.header{margin: 40px 0px 20px 0px;}
+.entry{width: 220px; float: left; margin: 10px; height: 198px; 
+    background-repeat: no-repeat; background-position: bottom;}
+figure{display: block; width: 202px; height: 170px; background-color: #ebdaab; padding: 9px;
+    text-align: left;}
+figure img{width: 200px; height: 150px; border: 1px solid #d6d6d6;}
+figcaption{background-color: #fdf1e4; padding-left: 20px; background-repeat: no-repeat;}
