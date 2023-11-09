@@ -1,3 +1,3 @@
-# beginner's web design examples
+# beginner's example 
 
-examples of web design
+exercises on html and css
